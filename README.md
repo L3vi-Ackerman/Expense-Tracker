@@ -71,5 +71,4 @@ This is the backend API for the Expense Tracker application, built using **Node.
 - **JWT**: Secure authentication.
 
 ---
-
-For further details or questions, feel free to contact the maintainer. 
+ 
